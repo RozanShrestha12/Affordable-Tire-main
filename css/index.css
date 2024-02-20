@@ -602,6 +602,12 @@ nav .navbar-nav .nav-link:hover {
 .secondary-about-us .flex .img-side .icon-description p {
   color: var(--white);
 }
+.brand-bg{
+  color: white;
+  background-color: #222222;
+  padding: 10px;
+  
+}
 
 .secondary-about-us .flex .img-side .icon-description .icon-div {
   background-color: transparent;
